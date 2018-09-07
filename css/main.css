@@ -158,6 +158,29 @@ a.active,
 #imagen{
   width: 95px;
   height: 95px;
+  cursor: pointer;
+}
+
+#png{
+  justify-content: center;
+  width: 240px;
+  height: 240px;
+}
+
+#info:hover{
+  background: #624BFF;
+}
+
+#proyec:hover{
+  background: #624BFF;
+}
+
+#imagen:hover{
+  background: #624BFF;
+}
+
+#icon:hover{
+  color: #624BFF;
 }
 
 .text-center{
